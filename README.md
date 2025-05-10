@@ -1,0 +1,3 @@
+- 👀 I’m I am in the first semester of university
+- 🌱 I’m currently learning : LARAVEL and PYTHON
+- 😄 Languages: Java, CSS, HTML, JS and DataBase
